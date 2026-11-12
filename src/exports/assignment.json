@@ -1,0 +1,43 @@
+{
+ "mssv": "2A202603112",
+ "ten": "NguyenHanTruongGiang",
+ "pool_version": "d04-k5-v2",
+ "cvat_user": "hgiang4404",
+ "project": "d04-keypoint",
+ "persons": [
+  "000000150500.jpg",
+  "000000184224.jpg",
+  "000000294329.jpg",
+  "000000390585.jpg",
+  "000000429594.jpg",
+  "000000030960.jpg",
+  "000000177338.jpg",
+  "000000220045.jpg",
+  "000000054909.jpg",
+  "000000210604.jpg",
+  "000000150192.jpg",
+  "000000012552.jpg"
+ ],
+ "faces": [
+  "face_125051.jpg",
+  "face_204787.jpg",
+  "face_575921.jpg",
+  "face_53580.jpg",
+  "face_79591.jpg",
+  "face_143959.jpg",
+  "face_256814.jpg",
+  "face_560282.jpg"
+ ],
+ "tasks": {
+  "persons": {
+   "task_id": 12,
+   "job_id": 12,
+   "task_name": "persons-NguyenHanTruongGiang"
+  },
+  "faces": {
+   "task_id": 13,
+   "job_id": 13,
+   "task_name": "faces-NguyenHanTruongGiang"
+  }
+ }
+}
